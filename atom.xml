@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2017-02-03T15:37:19+08:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[2017-01-20 03:14:00]]></title>
+    <link href="http://yoursite.com/blog/2017/01/20/freenesss-blog/"/>
+    <updated>2017-01-20T03:14:00+08:00</updated>
+    <id>http://yoursite.com/blog/2017/01/20/freenesss-blog</id>
+    <content type="html"><![CDATA[<h1>freeness&rsquo;s blog</h1>
+
+<h6>2017-01-20 03:14:00</h6>
+
+<hr />
+
+<p><img src="http://okqmqrbgo.bkt.clouddn.com/201701200314001.jpg" alt="image" /></p>
+
+<p><img src="http://okqmqrbgo.bkt.clouddn.com/201701200314002.jpg" alt="image" /></p>
+
+<p><img src="http://okqmqrbgo.bkt.clouddn.com/201701200314003.jpg" alt="image" /></p>
+
+<p><img src="http://okqmqrbgo.bkt.clouddn.com/201701200314004.jpg" alt="image" /></p>
+
+<hr />
+
+<blockquote><p>幸福的地铺，多少年没睡这么硬的床了，功夫不负有心人，几天下来已经驾轻就熟了，老婆评价，我这个理工科出身的奶爸还是比较靠谱的。这几天老爸乐的每天5点就起来做饭了，一边做一边哼着小曲，我想老爸乐的是：老王家终于开枝散叶了。一家人就这样幸福，健康，快乐的生活下去吧，永远，永远，永远……</p></blockquote>
+
+<hr />
+]]></content>
+  </entry>
+  
+</feed>
