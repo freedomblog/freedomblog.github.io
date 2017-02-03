@@ -1,0 +1,14 @@
+---
+layout: post
+title: "2014-04-04 14:45:45"
+date: 2014-04-04 14:45:45 +0800
+comments: true
+categories: 
+---
+
+# freeness's blog
+
+----------
+
+>
+编码容易，维护不易，且行且珍惜。

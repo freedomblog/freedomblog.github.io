@@ -1,0 +1,16 @@
+---
+layout: post
+title: "2013-03-11 19:12:02"
+date: 2013-03-11 19:12:02 +0800
+comments: true
+categories: 
+---
+
+# freeness's blog
+
+----------
+
+![](http://okqmqrbgo.bkt.clouddn.com/201303111912021.jpg)
+
+>
+怎样才能写出优秀的代码？我有一个办法：不到最后一天，坚决不开工。

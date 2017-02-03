@@ -1,0 +1,16 @@
+---
+layout: post
+title: "2013-03-19 22:17:00"
+date: 2013-03-19 22:17:00 +0800
+comments: true
+categories: 
+---
+
+# freeness's blog
+
+----------
+
+![](http://okqmqrbgo.bkt.clouddn.com/201303192217001.jpg)
+
+>
+\#苹果\#苹果放了315的鸽子，俨然一副你耐我何。苹果确认App Store大陆下载提速10倍以上，苹果官方表示，一周前3月11日，苹果App Store在大陆下载提速10倍以上，据悉其原理为通过CDN(Content Delivery Network内容分发网络)方式。现在下载速度基本取决于用户的网速，测试时一般都能达到所用网络的极速。

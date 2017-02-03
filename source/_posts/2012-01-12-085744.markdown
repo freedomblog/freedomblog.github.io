@@ -1,0 +1,16 @@
+---
+layout: post
+title: "2012-01-12 08:57:44"
+date: 2012-01-12 08:57:44 +0800
+comments: true
+categories: 
+---
+
+# freeness's blog
+
+----------
+
+![](http://okqmqrbgo.bkt.clouddn.com/201201120857441.jpg)
+
+>
+智能交通系统(Intelligent Transportation System)，就如同一个会“思考”的管理者，它高效地融合了信息技术、数据通讯技术、自动控制技术以及信息处理技术等多方面技术，形成“信息控制融合系统”。如果运用于整个交通管理系统，能够大范围、全方位地进行实时、准确、高效的运输综合智能控制和管理。

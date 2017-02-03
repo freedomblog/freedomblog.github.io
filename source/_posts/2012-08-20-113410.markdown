@@ -1,0 +1,16 @@
+---
+layout: post
+title: "2012-08-20 11:34:10"
+date: 2012-08-20 11:34:10 +0800
+comments: true
+categories: 
+---
+
+# freeness's blog
+
+----------
+
+![](http://okqmqrbgo.bkt.clouddn.com/201208201134101.jpg)
+
+>
+就它了，Pebble智能手表将会与IOS 5以及安卓2.3及更高版本兼容。采用1.26英寸分辨率为144 x 168的黑白ePaper显示屏，支持蓝牙2.1+EDR,四个控制键，内置震动器和三维重力感应器。Pebble智能手表能够接听电话，接受邮件和信息提醒。也能够通过蓝牙控制Spotify，iTunes以及Pandora等应用的音乐播放功能。

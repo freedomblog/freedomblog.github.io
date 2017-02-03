@@ -1,0 +1,17 @@
+---
+layout: post
+title: "2011-12-14 13:38:24"
+date: 2011-12-14 13:38:24 +0800
+comments: true
+categories: 
+---
+
+# freeness's blog
+
+----------
+
+![](http://okqmqrbgo.bkt.clouddn.com/201112141338241.jpg)
+
+>
+Qt 国际化编程
+通过XML实现多语言支持，简体、繁体、英语、葡萄牙语、日语。

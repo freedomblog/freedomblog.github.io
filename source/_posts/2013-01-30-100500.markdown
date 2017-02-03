@@ -1,0 +1,16 @@
+---
+layout: post
+title: "2013-01-30 10:05:00"
+date: 2013-01-30 10:05:00 +0800
+comments: true
+categories: 
+---
+
+# freeness's blog
+
+----------
+
+![](http://okqmqrbgo.bkt.clouddn.com/201301301005001.jpg)
+
+>
+Ubuntu终于大张旗鼓的进军手机操作系统了，Perfectly distilled已经贴入首页，且在phones、Android、TV都要插一腿，不知道我的手机可以刷一下不。而且在点击下载最新版Ubuntu后，将进入Desktop contribute page页面，网站把评价和募款结合到了一起，作为一个all free的信仰者我给出了自己的答案。

@@ -1,0 +1,16 @@
+---
+layout: post
+title: "2011-09-18 01:41:35"
+date: 2011-09-18 01:41:35 +0800
+comments: true
+categories: 
+---
+
+# freeness's blog
+
+----------
+
+![](http://okqmqrbgo.bkt.clouddn.com/201109180141351.jpg)
+
+>
+等了几年的《Diablo Ⅲ》终于出来了，安装中，机动啊！从下文中暴雪的野心可见一斑，专有引擎将使用Havok物理引擎来显示，玩家可损坏游戏环境。开发小组计划支持多种不同的系统组合，而且不要求Windows Vista的DirectX 10。暴雪娱乐准备同时间出版Microsoft Windows和Mac OS X版本。

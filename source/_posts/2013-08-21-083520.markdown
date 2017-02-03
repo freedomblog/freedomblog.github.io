@@ -1,0 +1,16 @@
+---
+layout: post
+title: "2013-08-21 08:35:20"
+date: 2013-08-21 08:35:20 +0800
+comments: true
+categories: 
+---
+
+# freeness's blog
+
+----------
+
+![](http://okqmqrbgo.bkt.clouddn.com/201308210835201.jpg)
+
+>
+技术人，不要把自己陷在技术的圈子中，世界太大，人生太短。我们习惯了敲错代码就按下ctrl+z，出问题了就debug，但人生是一段不能回头的单行道， 不要迷惘选择是否正确，当你心之所向，那就前往。

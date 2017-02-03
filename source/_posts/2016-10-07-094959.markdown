@@ -1,0 +1,16 @@
+---
+layout: post
+title: "2016-10-07 09:49:59"
+date: 2016-10-07 09:49:59 +0800
+comments: true
+categories: 
+---
+
+# freeness's blog
+
+----------
+
+![](http://okqmqrbgo.bkt.clouddn.com/201610070949591.jpg)
+
+>
+主动降噪耳机则运用digital signal processing (DSP) 去消除外界的噪声。简单的来说，当你选择耳机时看到‘主动降噪耳机’的标识也就意味着这个耳机会有一个内置的微型话筒以及一个声学处理器，它会“听”见你周围的噪声然后通过处理器创造出一个完全相反的声音将噪音中和掉,声学中这就叫‘相消干涉’

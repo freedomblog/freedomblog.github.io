@@ -1,0 +1,16 @@
+---
+layout: post
+title: "2012-04-27 07:17:02"
+date: 2012-04-27 07:17:02 +0800
+comments: true
+categories: 
+---
+
+# freeness's blog
+
+----------
+
+![](http://okqmqrbgo.bkt.clouddn.com/201204270717021.jpg)
+
+>
+\#分享照片\#昆明湖准备安装自动检票机，浙江深大智科技的产品，真想拆开看看，最好看看源代码。

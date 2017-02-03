@@ -1,0 +1,16 @@
+---
+layout: post
+title: "2012-03-26 15:36:50"
+date: 2012-03-26 15:36:50 +0800
+comments: true
+categories: 
+---
+
+# freeness's blog
+
+----------
+
+![](http://okqmqrbgo.bkt.clouddn.com/201203261536501.jpg)
+
+>
+\#分享手机微博客户端\#我刚更新了腾讯微博Android3.5正式版客户端，微相册很给力，追回我许多回忆；发微博很方便地一次@ 选择多个朋友，定位后还有小惊喜。无微不至的感觉，你也来体验吧，下载地址：http://url.cn/2urScw 。

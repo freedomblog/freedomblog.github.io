@@ -1,0 +1,16 @@
+---
+layout: post
+title: "2015-03-06 10:49:25"
+date: 2015-03-06 10:49:25 +0800
+comments: true
+categories: 
+---
+
+# freeness's blog
+
+----------
+
+![](http://okqmqrbgo.bkt.clouddn.com/201503061049251.jpg)
+
+>
+12306又挂了，购票后无法支付，看到错误提示，第一个念头就是重启服务器，职业病啊~

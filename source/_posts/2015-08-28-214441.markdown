@@ -1,0 +1,16 @@
+---
+layout: post
+title: "2015-08-28 21:44:41"
+date: 2015-08-28 21:44:41 +0800
+comments: true
+categories: 
+---
+
+# freeness's blog
+
+----------
+
+![](http://okqmqrbgo.bkt.clouddn.com/201508282144411.jpg)
+
+>
+修复某些情况下出现未知Wi-Fi的问题，终于修复了，这两周Wi-Fi断断续续，都影响到了骑记的GPS，这月400公里保不住了～

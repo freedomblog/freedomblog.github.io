@@ -1,0 +1,14 @@
+---
+layout: post
+title: "2014-02-08 09:10:49"
+date: 2014-02-08 09:10:49 +0800
+comments: true
+categories: 
+---
+
+# freeness's blog
+
+----------
+
+>
+Write less code solve more problems.
